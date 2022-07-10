@@ -21,9 +21,9 @@ Beat-Boxes-CXK
 音乐很好听 ikun有必要点击来一首 反复点击可以切换
 
 ## 音乐投稿
-视频/音乐文件都可
-抖音作品直接发我链接 我会提取音乐添加到网站背景音乐随机列表
-QQ 29929382 [添加好友](https://tool.gljlw.com/qq/?qq=29929382)
+视频/音乐文件都可  
+抖音作品直接发我链接 我会提取音乐添加到网站背景音乐随机列表  
+QQ 29929382 [添加好友](https://tool.gljlw.com/qq/?qq=29929382)  
 
 ## 其它事项
 原项目:[EatKano](https://github.com/arcxingye/EatKano)
